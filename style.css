@@ -131,6 +131,7 @@ section:nth-child(2n+1){
     height: 30px;
     width: 150px;
     box-shadow: 0px 0px 6px 4px rgba(230,196,196,0.2);
+    /* padding-left: 10px; */
 }
 
 .skill-prcnt{
@@ -141,31 +142,31 @@ section:nth-child(2n+1){
 }
 .stat{
     background-color: rgb(111, 111, 168);
-    width: 70%;
+    width: 0%;
 }
 .stat1{
     background-color: rgb(70, 197, 110);
-    width: 60%;
+    width: 0%;
 }
 .stat2{
     background-color: rgb(214, 36, 158);
-    width: 80%;
+    width: 0%;
 }
 .stat3{
     background-color: rgb(206, 99, 32);
-    width: 50%;
+    width: 0%;
 }
 .stat4{
     background-color: rgb(197, 214, 36);
-    width: 70%;
+    width: 0%;
 }
 .stat5{
     background-color: rgb(200, 33, 191);
-    width: 70%;
+    width: 0%;
 }
 .stat6{
     background-color: rgb(198, 26, 26);
-    width: 70%;
+    width: 0%;
 }
 .skill-progress div span{
     margin-left: 10%;
@@ -195,7 +196,6 @@ section:nth-child(2n+1){
     position: sticky;
     top: 10%;
     left: 51%;
-
     transform: rotate(90deg);
 }
 .exp-traveller i{
